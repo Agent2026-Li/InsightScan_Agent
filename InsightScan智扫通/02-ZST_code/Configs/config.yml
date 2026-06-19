@@ -1,0 +1,8 @@
+#model_name: qwen3:32b
+#model_name: qwen3:8b
+#model_name: qwen3:1.7b
+#model_name: qwen2.5:7b
+model_name: qwen3:4b
+embedding_name: nomic-embed-text:latest
+server_url: http://127.0.0.1:11434
+reporter_prompt_path: prompts/report_prompt.txt
