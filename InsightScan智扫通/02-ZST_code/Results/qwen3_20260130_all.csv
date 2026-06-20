@@ -1,2 +1,0 @@
-query,answer
-这个扫地机器人能扫哪些地面？,"Error in exec_actions: name 'RetrievalQA' is not defined, args:{'query': '这个扫地机器人能扫哪些地面？'}"
